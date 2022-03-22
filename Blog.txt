@@ -1,0 +1,9 @@
+Blog
+----
+
+Incluir la Cabecera de Pagina
+
+Sección que muestra las entradas creadas y post creados para el sitio
+
+
+Incluir el Pie de pagina
