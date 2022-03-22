@@ -1,0 +1,13 @@
+Contacto
+--------
+
+Incluido la cabecera
+
+Formulario para recibir consultas
+
+Incluido un campo de comentario
+
+Incluido un mapa de la ubicacion de la empresa
+
+Incluido el pie de pagina
+
